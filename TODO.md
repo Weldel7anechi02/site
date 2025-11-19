@@ -1,0 +1,2 @@
+- [x] Update accueil.html structure for better design
+- [x] Update style/style.css with professional styles and transitions
